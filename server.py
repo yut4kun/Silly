@@ -17,7 +17,7 @@ from transformers import AutoTokenizer, AutoProcessor, pipeline
 from transformers import AutoModelForCausalLM, AutoModelForSeq2SeqLM
 from transformers import BlipForConditionalGeneration
 import unicodedata
-import torch
+#import torch
 import time
 import os
 import gc
